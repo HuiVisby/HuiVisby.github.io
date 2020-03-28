@@ -1,12 +1,12 @@
 # Site settings
-title: Language and AI
-SEOTitle:  Yongchao Blog
+title: Hui Kitchen
+SEOTitle:  Hui Blog
 header-img: img/home-bg.jpg
-email: yongchao.wu.kth@gmail.com
-description: "Lanuage is what you use everyday."
-url: "http://yonwu.github.io"          # your host, for absolute URL
+email: yanghui327@outlook.com
+description: "love kitchen, love life."
+url: "http://huivisby.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com:yonwu/yonwu.github.io.git" # you code repository
+github_repo: "https://github.com:huivisby/huivisby.github.io.git" # you code repository
 
 # Sidebar settings
 # SNS settings
