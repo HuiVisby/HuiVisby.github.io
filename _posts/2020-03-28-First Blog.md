@@ -13,11 +13,12 @@ catalog: true
 Pineapple bun is a favorite breakfast staple as well as for afternoon tea in HongKong. Actually the ingredients don't contain any pineapple at all. Just because of the similarity of its appearance to pineapple, it is called pineapple bun. It tastes best when the newly baked bun is couple with salted butter cube and a cup of milk tea.  
 
 
-###### Water Roux Dough Ingredients:
+###### <font color="#556B2F">Water Roux Dough Ingredients:</font>
 
 bread flour 50g<br/>
 water       250ml
-<font color="#dd0000">WATER：</font><br /> 
+<font color="#556B2F">bread flour 50g</font><br />
+ 
 
 ###### Main Bread Dough Ingredients:
 
