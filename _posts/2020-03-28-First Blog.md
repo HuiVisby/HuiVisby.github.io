@@ -16,28 +16,28 @@ Pineapple bun is a favorite breakfast staple as well as for afternoon tea in Hon
 ###### Water Roux Dough Ingredients:
 
 bread flour 50g<br>
-water       250ml
+water       250ml<br>
 
 ###### Main Bread Dough Ingredients:
 
-bread flour 550g
-salt 8g
-water roux dough 184g
-milk 60ml
-whipping cream 90ml
-whisked egg 86g
-instant dry yeast 12g
-white granulated sugar 80g
-unsalted butter 50g
+bread flour 550g<br>
+salt 8g<br>
+water roux dough 184g<br>
+milk 60ml<br>
+whipping cream 90ml<br>
+whisked egg 86g<br>
+instant dry yeast 12g<br>
+white granulated sugar 80g<br>
+unsalted butter 50g<br>
 
 ###### Pineapple Topping Ingredients:
 
-large egg 1st
-vanilla extract 1tsp
-unsalted butter 145g
-powered sugar 100g
-bread flour 220g
-baking soda 1tsp
+large egg 1st<br>
+vanilla extract 1tsp<br>
+unsalted butter 145g<br>
+powered sugar 100g<br>
+bread flour 220g<br>
+baking soda 1tsp<br>
 
 
 
