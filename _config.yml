@@ -1,5 +1,5 @@
 # Site settings
-title: Hui Kitchen
+title: Hui's Home Kitchen
 SEOTitle:  Hui Blog
 header-img: img/banner.jpeg
 email: yanghui327@outlook.com
@@ -10,7 +10,7 @@ github_repo: "https://github.com:huivisby/huivisby.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "Love food, love life!"
+sidebar-about-description: "Love food, love kitchen, love life!"
 sidebar-avatar: /img/profilephoto.jpeg
 # SNS settings
 RSS: false
