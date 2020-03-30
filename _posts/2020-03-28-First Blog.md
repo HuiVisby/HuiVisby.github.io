@@ -15,8 +15,8 @@ Pineapple bun is a favorite breakfast staple as well as for afternoon tea in Hon
 
 ###### Water Roux Dough Ingredients:
 
-<font size="2">bread flour 50g</font><br/>
-<font size="2">water       250ml</font>
+<font size="3">bread flour 50g</font><br>
+<font size="3">water 250ml</font>
 
 ###### Main Bread Dough Ingredients:
 
