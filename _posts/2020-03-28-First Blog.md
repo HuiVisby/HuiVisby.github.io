@@ -3,7 +3,7 @@ layout:     post
 title:      Try to bake your own pineapple bun
 date:       2020-03-28
 author:     Hui
-header-img: img/pineapple.jpg
+header-img: img/pineapple.jpeg
 catalog: true
 
 ---
@@ -15,8 +15,6 @@ Pineapple bun is a favorite breakfast staple as well as for afternoon tea in Hon
 ### subintro
 
 #### subsub
-
-
 
 >key word: food
 
