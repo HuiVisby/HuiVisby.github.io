@@ -17,7 +17,7 @@ Pineapple bun is a favorite breakfast staple as well as for afternoon tea in Hon
 
 bread flour 50g<br/>
 water       250ml
-$\color{DarkOliveGreen}{water}$
+<font color="#dd0000">WATER：</font><br /> 
 
 ###### Main Bread Dough Ingredients:
 
