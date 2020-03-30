@@ -9,6 +9,9 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com:huivisby/huivisby.github.io.git" # you code repository
 
 # Sidebar settings
+sidebar: true
+sidebar-about-description: "Love food, love life!"
+sidebar-avatar: /img/profilephoto.jpeg
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
