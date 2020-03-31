@@ -10,8 +10,9 @@ catalog: true
 
 ## Pineapple Bun
 
-Pineapple bun is a favorite breakfast staple as well as for afternoon tea in HongKong. Actually the ingredients don't contain any pineapple at all. Just because of the similarity of its appearance to pineapple, it is called pineapple bun. It tastes best when the newly baked bun is couple with salted butter cube and a cup of milk tea.  
-
+Pineapple bun is a favorite breakfast staple as well as for afternoon tea in HongKong. Actually the ingredients don't contain any pineapple at all. Just because of the similarity of its appearance to pineapple, it is called pineapple bun. It tastes best when the newly baked bun is couple with salted butter cube and a cup of milk tea.<br/>
+This recipe is for 14 buns.<br/>
+这份食谱可做出14个菠萝包。
 
 ###### Water Roux Dough Ingredients:
 
