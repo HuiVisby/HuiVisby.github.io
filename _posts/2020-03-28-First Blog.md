@@ -67,7 +67,7 @@ baking soda 1tsp<br>
 4. Bake pineapple buns at 375ºF (190ºC) for 15 to 20 minutes or until the top is golden brown.<br>
 
 <font color="F08080">Enjoy!</font><br>
-<font size="2"><font color="#808080">Note: It tastes best when the newly baked bun is couple with salted butter cube and a cup of milk tea. The pineapple bun is best eaten within 3 days from the baking date. Store the bun wrapped in plastic at room temperature or freeze. Thaw to room temperature and reheat in the oven to enjoy.</font></font>
+<font size="2"><font color="#808080">Note: It tastes best when the newly baked bun is couple with salted butter cube and a cup of milk tea. The pineapple bun is best eaten within 3 days from the baking date. Store the bun wrapped in plastic at room temperature or freeze. Thaw to room temperature and reheat in the oven to enjoy.</font></font><br>
 
 >key word: bakery, bun
 
