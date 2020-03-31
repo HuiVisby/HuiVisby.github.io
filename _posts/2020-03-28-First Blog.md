@@ -11,7 +11,7 @@ catalog: true
 ## Pineapple Bun
 
 Pineapple bun is a favorite breakfast staple as well as for afternoon tea in HongKong. Actually the ingredients don't contain any pineapple at all. Just because of the similarity of its appearance to pineapple, it is called pineapple bun. It tastes best when the newly baked bun is couple with salted butter cube and a cup of milk tea. This recipe is for 14 buns.
-<br><font size="3"><font color="#808080">港式菠萝包是香港人早茶和下午茶最爱的点心之一。虽名为菠萝包，但其实原料中并不含菠萝，仅仅因为它的酥皮与菠萝外观类似，所以香港人称其为菠萝包。新鲜出炉的菠萝包配上冰凉的闲黄油块，如同冰与火的碰撞，彼此逐渐交融。此时，再佐以一杯奶茶，就是一份地道的港式茶点。参照这份食谱，可做14个菠萝包。</font></font>
+<br><font size="3"><font color="#808080">港式菠萝包是香港人早茶和下午茶最爱的点心之一。虽名为菠萝包，但其实原料中并不含菠萝，仅仅因为它的酥皮与菠萝外观类似，所以香港人称其为菠萝包。新鲜出炉的菠萝包配上冰凉的咸味黄油块，如同冰与火的碰撞，彼此逐渐交融。此时，再佐以一杯奶茶，就是一份地道的港式茶点。参照这份食谱，可做14个菠萝包。</font></font>
 
 ###### Water Roux Dough Ingredients:
 
