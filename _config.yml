@@ -60,5 +60,5 @@ service-worker: true
 # Analytics settings
 
 # Google Analytics
-ga_track_id: 'UA-139424267-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-139424267-2'            # Format: UA-xxxxxx-xx
 ga_domain: auto
