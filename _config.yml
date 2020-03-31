@@ -61,4 +61,4 @@ service-worker: true
 
 # Google Analytics
 ga_track_id: 'UA-139424267-2'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+ga_domain: huikitchen.life
