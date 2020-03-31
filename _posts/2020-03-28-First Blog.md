@@ -39,9 +39,11 @@ powered sugar 100g<br>
 bread flour 220g<br>
 baking soda 1tsp<br>
 
+###### Steps:
+
+1. Make water roux dough: pour bread flour into cool water and mix well. Then cook and stir over low heat until mixture thickens.<br>
 
 
-
->key word: food
+>key word: bakery, bun
 
 
