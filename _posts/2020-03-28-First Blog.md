@@ -41,7 +41,14 @@ baking soda 1tsp<br>
 
 ###### Steps:
 
-1. Make water roux dough: pour bread flour into cool water and mix well. Then cook and stir over low heat until mixture thickens.<br>
+<font color="F08080">Make water roux dough:</font><br>
+1. pour bread flour into cool water and mix them well. Then cook and stir over low heat until the mixture thickens. Keep stirring the mixture in the process. <br>
+2. Set the finished water roux dough aside until it cools down.<br>
+
+<font color="F08080">Make main Bread Dough:</font><br>
+1. pour all the ingredients needed except unsalted butter into the kitchen machine. Mix on medium speed for 2 minutes.
+
+
 
 
 >key word: bakery, bun
