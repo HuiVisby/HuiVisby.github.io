@@ -11,8 +11,8 @@ catalog: true
 ## Danish Cinnamon Bun
 
 Cinnamon bun is a favorite sweet roll or swirl served in Northern Europe. The cinnamon bun in Denmark is called kanelsnegle, while in Sweden it is called kanelbulle. But every country has its own inspiration on food. Compared with Swedish cinnamon bun, Danish cinnamon bun adds much more butter in the dough, kind of laminating dough, which is fantastic. And its topping usually goes with icing or chocolate instead of pearl sugar. This recipe is for 10 buns.
-<br><font size="3"><font color="#808080"> 肉桂卷是北欧常见的一种甜面包，但瑞典、丹麦和挪威的肉桂卷又各具特色。丹麦肉桂卷相比瑞典肉桂卷，口感更酥松，因为面团中加入了更多的黄油，做法类似法式可颂的油酥面团。早餐或下午茶来一个肉桂卷，再配上一杯黑咖啡，就是北欧人习以为常的生活。参照这份食谱，可做10个丹麦肉桂卷。</font></font>
 <br><font size="3"><font color="#808080"> Kanelbullarna i Danmark kallas för kanelsnegle. Borta är pärlsockret på toppen, istället är det glasyr eller choklad. På vissa ställen har man adderat en bra sak. Smör. Degen är som en blandning mellan smördeg och vanlig vetedeg, vilket ju är fantastiskt så klart.
+<br><font size="3"><font color="#808080"> 肉桂卷是北欧常见的一种甜面包，但瑞典、丹麦和挪威的肉桂卷又各具特色。丹麦肉桂卷相比瑞典肉桂卷，口感更酥松，因为面团中加入了更多的黄油，做法类似法式可颂的油酥面团。早餐或下午茶来一个肉桂卷，再配上一杯黑咖啡，是北欧人习以为常的生活方式。参照这份食谱，可做10个丹麦肉桂卷。</font></font>
 
 ###### Main Dough Ingredients:
 
@@ -74,7 +74,7 @@ baking soda 1tsp<br>
 4. Bake pineapple buns at 375ºF (190ºC) for 15 to 20 minutes or until the top is golden brown.<br>
 
 <font color="F08080">Enjoy!</font>
-<br><font size="2"><font color="#808080">Note: It tastes best when the newly baked bun is couple with salted butter cube and a cup of milk tea. The pineapple bun is best eaten within 3 days from the baking date. Store the bun wrapped in plastic at room temperature or freeze. Thaw to room temperature and reheat in the oven to enjoy.</font></font>
+_<br><font size="2"><font color="#808080">Note: It tastes best when the newly baked bun is couple with salted butter cube and a cup of milk tea. The pineapple bun is best eaten within 3 days from the baking date. Store the bun wrapped in plastic at room temperature or freeze. Thaw to room temperature and reheat in the oven to enjoy.</font></font>_
 
 
 >key word: bakery, bun
