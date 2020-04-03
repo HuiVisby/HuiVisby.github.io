@@ -17,9 +17,9 @@ Cinnamon bun is a favorite sweet roll or swirl served in Northern Europe. The ci
 ###### <font color="#F08080"> Ingredients:
 
 <br/>**<font size="2">Main Dough</font>**
-<br><font size="2">all-purpose flour  250g</font><br/>
-<font size="2">milk   140ml</font><br>
-<br><font size="2">salt   4g</font>
+<br><font size="2">all-purpose flour  250g</font>
+<font size="2">milk   140ml</font>
+<font size="2">salt   4g</font>
 water  250ml<br>
 white granulated sugar  25g<br>
 melted unsalted butter  20g<br>
