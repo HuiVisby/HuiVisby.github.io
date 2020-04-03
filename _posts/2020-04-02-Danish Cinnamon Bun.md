@@ -27,7 +27,6 @@ Cinnamon bun is a favorite sweet roll or swirl served in Northern Europe. The ci
 <br><font size="2">unsalted butter  125g</font>
 
 **<font size="2">Filling:</font>**
-
 <br><font size="2">egg yolk  1st</font>
 <br><font size="2">brown sugar  40g</font>
 <br><font size="2">vanilla extract  20g</font>
@@ -35,14 +34,13 @@ Cinnamon bun is a favorite sweet roll or swirl served in Northern Europe. The ci
 <br><font size="2">melted butter  20g</font>
 <br><font size="2">powdered cinnamon  10g</font>
 
-###### Glaze Ingredients:
+**<font size="2">Glaze:</font>**
+<br><font size="2">egg white  8g</font>
+<br><font size="2">powered sugar  50g</font>
+<br><font size="2">egg yolk  1st</font>
+<br><font size="2">cool water  1tsp</font>
 
-egg white  8g<br>
-powered sugar  50g<br>
-egg yolk  1st<br>
-cool water  1tsp
-
-###### Steps:
+###### <font color="#F08080"> Steps: _coming soon_
 
 
 
