@@ -14,9 +14,9 @@ Cinnamon bun is a favorite sweet roll or swirl served in Northern Europe. The ci
 <br><font size="3"><font color="#808080"> Kanelbullarna i Danmark kallas för kanelsnegle. Borta är pärlsockret på toppen, istället är det glasyr eller choklad. På vissa ställen har man adderat en bra sak. Smör. Degen är som en blandning mellan smördeg och vanlig vetedeg, vilket ju är fantastiskt så klart.
 <br><font size="2"><font color="#808080"> 肉桂卷是北欧常见的一种甜面包，但瑞典、丹麦和挪威的肉桂卷又各具特色。丹麦肉桂卷相比瑞典肉桂卷，口感更酥松，因为面团中加入了更多的黄油，做法类似法式可颂的油酥面团。早餐或下午茶来一个肉桂卷，再配上一杯黑咖啡，是北欧人习以为常的生活方式。参照这份食谱，可做10个丹麦肉桂卷。</font></font>
 
-###### <font color="#F08080"> Ingredients:
+###### <font color="#F08080"> Ingredients
 
-<br/>**<font size="2">Main Dough</font>**
+<br/>**<font size="2">Main Dough:</font>**
 <br><font size="2">all-purpose flour  250g</font>
 <br><font size="2">milk   140ml</font>
 <br><font size="2">salt   4g</font>
@@ -26,14 +26,14 @@ Cinnamon bun is a favorite sweet roll or swirl served in Northern Europe. The ci
 <br><font size="2">instant dry yeast  7g</font>
 <br><font size="2">unsalted butter  125g</font>
 
-###### Filling Ingredients:
+**<font size="2">Filling:</font>**
 
-egg yolk  1st<br/>
-brown sugar  40g<br/>
-vanilla extract  20g<br>
-all-purpose flour  20g<br>
-melted butter  20g<br>
-powdered cinnamon  10g<br>
+<br><font size="2">egg yolk  1st</font>
+<br><font size="2">brown sugar  40g</font>
+<br><font size="2">vanilla extract  20g</font>
+<br><font size="2">all-purpose flour  20g</font>
+<br><font size="2">melted butter  20g</font>
+<br><font size="2">powdered cinnamon  10g</font>
 
 ###### Glaze Ingredients:
 
