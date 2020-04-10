@@ -47,7 +47,7 @@ Cinnamon bun is a favorite sweet roll or swirl served in Northern Europe. The ci
 <br><font size="2">2. Do a gluten test (stretch a piece of dough between your thumb and forefinger, if it breaks it needs to be worked longer and if it is resilient, the dough is ready) and make sure the dough is ready. Otherwise, continue to knead and do the test again.</font>
 <br><font size="2">3. Place the dough in the fridge and rest for about 30 minutes.</font>
 <br><font size="2">4. Flatten out 125 g butter to a square and place it in the fridge.</font>
-<br><font size="2">5. Roll out the dough into a rectangle. Place the flatted butter on the dough and fold the dough to cover the butter.</font>
+<br><font size="2">5. Roll out the dough into a rectangle. Place the flattened butter on the dough and fold the dough to cover the butter.</font>
 <br><font size="2">6. Roll out the dough into a rectangle, until it’s ⅛-inch (½-cm) thick, and then fold the dough. Repeat the step three times. </font>
 <br><font size="2">7. Cover the dough with plastic and place it in the fridge. Let it rest for about 30 minutes. </font>
 <br><font size="2">8. Mix all ingredients for fillings into a smooth paste.</font>
