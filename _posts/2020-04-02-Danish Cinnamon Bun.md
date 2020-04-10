@@ -57,7 +57,7 @@ Cinnamon bun is a favorite sweet roll or swirl served in Northern Europe. The ci
 <br><font size="2">12.Place the buns tightly next to each other in rectangular baking form and ferment under the baking sheet for about two hours. Set the oven to 210 degrees. </font>
 <br><font size="2">13.Brush the fermented buns with eggs. Bake the buns for about 15 minutes at 200 degrees.</font>
 <br><font size="2">14.Mix the glaze and pour the glaze over the buns.</font>
-
+<br><font size="2">15.Enjoy! </font>
 
 >key word: bakery, bun
 
