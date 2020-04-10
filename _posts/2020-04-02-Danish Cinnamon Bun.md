@@ -41,7 +41,9 @@ Cinnamon bun is a favorite sweet roll or swirl served in Northern Europe. The ci
 <br><font size="2">egg yolk  1st</font>
 <br><font size="2">cool water  1tsp</font>
 
-###### <font color="#F08080"> Steps: _coming soon_
+###### <font color="#F08080"> Steps: coming soon
+
+<br><font size="2">1. Mix all the ingredients for the wheat dough in a bowl, preferably food preparation. Knead for about 10 minutes, until the dough drops from the edge and becomes a little glossy. </font>
 
 
 
