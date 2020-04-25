@@ -3,7 +3,7 @@ layout:     post
 title:      Basic Iced Latte
 date:       2020-04-25
 author:     Hui
-header-img: img/latte.jpeg
+header-img: img/icedlatte.jpeg
 catalog: true
 
 ---
